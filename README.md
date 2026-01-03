@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://watchmanmonitoring.com/images/brand-2015/Watchman-Monitoring-logomark-blue-circle.png" width="200" alt="Website Watchman macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Website%20Watchman">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Website%20Watchman">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Website Watchman macOS page">
  </a><br><br>
  <div align="center">
